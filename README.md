@@ -1,8 +1,11 @@
 # sql-challenge
 mostly used gitlab as a resource for questions. 
- employees
 
-syntax for erd
+
+syntax for ERD
+--
+
+employees
 -
 emp_no PK int
 emp_title_id varchar(5) Fk >- titles.title_id
